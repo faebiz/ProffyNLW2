@@ -1,1 +1,0 @@
-First project made in HTML/CSS and Javascript.
